@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/Homastin/homastin/blob/master/zen-logo.png" alt="发" width="238px" height="275px" />
+<img align="right" src="https://github.com/Homastin/homastin/blob/master/zen-logo2.jpeg" alt="发" width="238px" height="275px" />
 
 ### 🦊 Homastin
 
